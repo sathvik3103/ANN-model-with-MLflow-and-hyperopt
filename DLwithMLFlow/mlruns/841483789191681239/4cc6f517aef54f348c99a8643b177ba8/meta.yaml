@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/sathvik/Desktop/Langchain/DLwithMLFlow/mlruns/841483789191681239/4cc6f517aef54f348c99a8643b177ba8/artifacts
+end_time: 1733020450706
+entry_point_name: ''
+experiment_id: '841483789191681239'
+lifecycle_stage: active
+run_id: 4cc6f517aef54f348c99a8643b177ba8
+run_name: adaptable-calf-741
+run_uuid: 4cc6f517aef54f348c99a8643b177ba8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733020444350
+status: 3
+tags: []
+user_id: sathvik

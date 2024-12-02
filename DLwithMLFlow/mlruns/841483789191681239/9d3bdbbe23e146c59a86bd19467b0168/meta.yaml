@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/sathvik/Desktop/Langchain/DLwithMLFlow/mlruns/841483789191681239/9d3bdbbe23e146c59a86bd19467b0168/artifacts
+end_time: 1733020456800
+entry_point_name: ''
+experiment_id: '841483789191681239'
+lifecycle_stage: active
+run_id: 9d3bdbbe23e146c59a86bd19467b0168
+run_name: indecisive-lynx-537
+run_uuid: 9d3bdbbe23e146c59a86bd19467b0168
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733020450726
+status: 3
+tags: []
+user_id: sathvik

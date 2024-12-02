@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1733020610241
+current_stage: None
+description: null
+last_updated_timestamp: 1733020610241
+name: wine-quality
+run_id: 86fac301b8384ce9af1448b4114eafe7
+run_link: null
+source: file:///Users/sathvik/Desktop/Langchain/DLwithMLFlow/mlruns/841483789191681239/86fac301b8384ce9af1448b4114eafe7/artifacts/model
+status: READY
+status_message: null
+storage_location: file:///Users/sathvik/Desktop/Langchain/DLwithMLFlow/mlruns/841483789191681239/86fac301b8384ce9af1448b4114eafe7/artifacts/model
+user_id: null
+version: 1

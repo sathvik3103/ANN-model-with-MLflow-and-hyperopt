@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/sathvik/Desktop/Langchain/DLwithMLFlow/mlruns/841483789191681239/86fac301b8384ce9af1448b4114eafe7/artifacts
+end_time: 1733020468247
+entry_point_name: ''
+experiment_id: '841483789191681239'
+lifecycle_stage: active
+run_id: 86fac301b8384ce9af1448b4114eafe7
+run_name: unique-fox-778
+run_uuid: 86fac301b8384ce9af1448b4114eafe7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733020435767
+status: 3
+tags: []
+user_id: sathvik
